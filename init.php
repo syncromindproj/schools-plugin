@@ -33,7 +33,7 @@ function sinetiks_schools_modifymenu() {
 	//this is the main item for the menu
 	add_menu_page(
 		'Schools', //page title
-		'Schools', //menu title
+		'Schools Administration', //menu title
 		'manage_options', //capabilities
 		'sinetiks_schools_list', //menu slug
 		'sinetiks_schools_list' //function
