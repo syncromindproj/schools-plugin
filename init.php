@@ -3,7 +3,7 @@
 Plugin Name: Schools
 Description:
 Version: 1
-Author: sinetiks.com
+Author: Alejandro
 Author URI: http://sinetiks.com
 */
 // function to create the DB / Options / Defaults					
